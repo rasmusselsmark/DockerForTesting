@@ -7,7 +7,7 @@ Simple Docker demo project used for presentation in <https://www.meetup.com/Hels
 ### Local development
 
 1. Run `make run-server`
-1. Open <http://localhost:3000>
+1. Open <http://localhost:8888>
 
 ### Docker container
 
@@ -20,7 +20,7 @@ To build and run Docker container
 
 1. Run `make docker-build` to build Docker image
 1. Run `make docker-run` to start Docker container
-1. Open <http://localhost:3000>
+1. Open <http://localhost:8888>
 
 Will connect to server running inside Docker container
 
