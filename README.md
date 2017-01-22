@@ -6,6 +6,12 @@ Simple Docker demo project used for presentation in <https://www.meetup.com/Hels
 
 ### Local development
 
+Prequisites:
+
+- Node.js <https://nodejs.org/en/download/>
+
+Run local server:
+
 1. Run `make run-server`
 1. Open <http://localhost:8888>
 
@@ -14,7 +20,6 @@ Simple Docker demo project used for presentation in <https://www.meetup.com/Hels
 Prequisites:
 
 - Docker <https://www.docker.com/products/docker>
-- Node.js <https://nodejs.org/en/download/>
 
 To build and run Docker container
 
