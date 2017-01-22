@@ -27,6 +27,6 @@ To build and run Docker container
 1. Run `make docker-run` to start Docker container
 1. Open <http://localhost:8888>
 
-Will connect to server running inside Docker container
+Will connect to server running inside Docker container, i.e. displaying node version from container.
 
-1. Run `make docker-build` from other command-line window to stop Docker container
+1. Run `make docker-stop` from other command-line window to stop Docker container
